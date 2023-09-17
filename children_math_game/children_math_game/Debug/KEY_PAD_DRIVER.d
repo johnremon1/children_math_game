@@ -1,0 +1,6 @@
+KEY_PAD_DRIVER.d KEY_PAD_DRIVER.o: .././KEY_PAD_DRIVER.c \
+ .././KEY_PAD_DRIVER.h .././DIO_DRIVER.h
+
+.././KEY_PAD_DRIVER.h:
+
+.././DIO_DRIVER.h:
